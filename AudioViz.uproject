@@ -8,6 +8,10 @@
 		{
 			"Name": "SoundVisualizations",
 			"Enabled": true
+		},
+		{
+			"Name": "SteamVR",
+			"Enabled": false
 		}
 	]
 }
